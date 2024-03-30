@@ -1,0 +1,7 @@
+ultralytics
+wget
+torch
+opencv-python
+pickle5
+pandas
+numpy
